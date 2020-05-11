@@ -2,7 +2,7 @@
 
 Written in Python
 
-##Usage
+## Usage
 ```bash
 $ python3 server.py 
 $ python3 client.py
